@@ -11,3 +11,10 @@ Comando que manda para o repo remote as modifcações do repo local
 
 - git pull
 Pega as modificações do remote para o local
+
+- git branch nomeDaBranch
+Cria uma branch local nova com o nome nomeDaBranch
+
+- git checkout nomeDaBranch
+Entra na branch chamada nomeDaBranch
+
